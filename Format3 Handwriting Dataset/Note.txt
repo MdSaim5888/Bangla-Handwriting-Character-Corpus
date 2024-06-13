@@ -1,0 +1,1 @@
+This is the format3 handwriting dataset which contains 740 images respectively.
