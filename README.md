@@ -11,12 +11,12 @@ The dataset we have provided has a lot of unique features. The most efficient fe
 This expanded dataset now includes 25,900 additional samples, achieving a balanced representation across various demographics. This diversity is pivotal in developing more generalized and robust handwriting recognition models that perform well across different handwriting styles, thus enhancing the applicability of the research to a broader user base.
 
 # Comparison with Existing Bangla Handwriting Datasets
-In this section, we compare our developed dataset with prominent existing Bangla handwriting datasets to underscore the unique contributions and comprehensiveness of our work. The comparison focuses on sample size, demographic diversity, character coverage, and data accessibility. Our dataset significantly surpasses the size of other publicly available Bangla handwriting datasets. comparison of sample sizes:
+In this section, we compare our developed dataset with prominent existing Bangla handwriting datasets to underscore the unique contributions and comprehensiveness of our work. The comparison focuses on sample size, demographic diversity, character coverage, and data accessibility. Our dataset significantly surpasses the size of other publicly available Bangla handwriting datasets. We use the five different handwriting samples where each has 740 and combining all make total 3700. After seven type of augmentation that preview as 25,900 samples. The comparison of sample sizes:
 
 - BanglaLekha-Isolated: 19,000 samples
 - CMATERdb: 9,000 samples
 - BN-HiLab: 12,000 samples
-- Proposed Dataset: 25,900 samples
+- Proposed Dataset: **25,900** samples
 
 # Usage Guide
 The dataset developed in this research, available on GitHub, provides a comprehensive corpus of Bangla handwriting samples intended for use in handwriting recognition tasks. It includes a diverse set of handwritten characters collected from various demographics to ensure a robust representation of Bangla script. As we mention about the free use of this repository so we conduct the license policy as nonexclusive but we want to ensure you that please use it for research purpose only, not for personal use or personal publication named yourself. Before using the dataset for model training, consider the following preprocessing steps to standardize input data:
