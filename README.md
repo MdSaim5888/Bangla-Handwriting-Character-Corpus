@@ -28,6 +28,7 @@ The dataset developed in this research, available on GitHub, provides a comprehe
 # Accessibility Section
 The dataset is hosted on GitHub and can be accessed. Below is a sample Python script using TensorFlow and OpenCV to load and preprocess images from the dataset:
 
+```
 import cv2
 import os
 import numpy as np
@@ -47,6 +48,7 @@ def load_images(path):
     
 X, y = load_images(dataset_path)
 print(f'Loaded {len(X)} images with corresponding labels.')
+```
 
 **Note**: We encourage contributions to further enhance the dataset. If you would like to contribute additional samples or report issues, please submit a pull request or open an issue on the GitHub repository.
 
