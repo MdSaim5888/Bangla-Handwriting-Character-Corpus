@@ -16,7 +16,7 @@ In this section, we compare our developed dataset with prominent existing Bangla
 - BanglaLekha-Isolated: 19,000 samples
 - CMATERdb: 9,000 samples
 - BN-HiLab: 12,000 samples
-- Proposed Dataset: **25,900** samples
+- **Proposed Dataset: 25,900 samples**
 
 # Usage Guide
 The dataset developed in this research, available on GitHub, provides a comprehensive corpus of Bangla handwriting samples intended for use in handwriting recognition tasks. It includes a diverse set of handwritten characters collected from various demographics to ensure a robust representation of Bangla script. As we mention about the free use of this repository so we conduct the license policy as nonexclusive but we want to ensure you that please use it for research purpose only, not for personal use or personal publication named yourself. Before using the dataset for model training, consider the following preprocessing steps to standardize input data:
