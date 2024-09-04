@@ -65,6 +65,6 @@ To address these challenges and enhance the accuracy of recognition models, the 
 # Conclusion
 We offer the research community to leverage this dataset to advance the field of Bangla handwriting recognition, and we welcome contributions that further enhance the corpus. By making the dataset freely accessible and providing thorough documentation, our goal is to foster a collaborative environment where insights can be shared, errors can be addressed, and continuous improvements can be made. Ultimately, this dataset not only aims to drive innovation in Bangla handwriting recognition but also serves as a foundation for future research exploring the rich and diverse characteristics of Bangla script. For any further assistance, feedback, or contributions, researchers are encouraged to contact the corresponding author, ensuring a dynamic and evolving resource that remains valuable to the community.
 
-THANK YOU <br>
-**Md. Abu Saim** < br / >
-Email: mdabusaim.cse.ugv@gmail.com
+**THANK YOU** <br>
+**Md. Abu Saim** <br>
+**Email: mdabusaim.cse.ugv@gmail.com**
